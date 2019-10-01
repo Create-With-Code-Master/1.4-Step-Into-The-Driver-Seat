@@ -5,7 +5,7 @@ layout: tabbed-assignment
 # Learning Targets
 
 By the end of this lesson, you will be able to:
-* Capture user inputs with Input.GetAxis, allowing the player to control the movement of the vehicle
+* Capture user inputs with ```Input.GetAxis```, allowing the player to control the movement of the vehicle
 * Use the **Rotate** method to rotate an object around an axis
 * Organize the game hierarchy with Empty objects
 
