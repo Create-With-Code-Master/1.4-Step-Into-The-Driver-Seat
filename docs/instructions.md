@@ -63,5 +63,3 @@ If all goes well this lesson should take about one block. Be sure to allow time 
 If necessary, add to your notes &mdash; you want to be able to come back to your notes so you don't have to watch the video again.
 
 </details>
-
-<!-- Don't edit links here, change them in _data/assignment.yml instead. -->
