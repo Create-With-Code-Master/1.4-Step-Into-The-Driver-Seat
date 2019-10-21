@@ -45,17 +45,17 @@ If all goes well this lesson should take about one block. Be sure to allow time 
 
 <p><details><summary>Go to the <a href="{{site.data.assignment.lesson}}">lesson</a> and get ready to take notes.</summary>
 
-    - Get headphones if you need them.
-    - Start a page for this lesson in your notebook with a title and date.
-    - Review the learning targets to see what you should be focusing on.
+- Get headphones if you need them.
+- Start a page for this lesson in your notebook with a title and date.
+- Review the learning targets to see what you should be focusing on.
 
 </details></p>
 
 <p><details><summary>Watch each video, taking notes on the new material.</summary>
 
-    - Vocabulary
-    - The Unity user interface
-    - Implementing game mechanics.
+- Vocabulary
+- The Unity user interface
+- Implementing game mechanics.
     
 </details>
 
