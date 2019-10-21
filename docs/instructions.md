@@ -2,6 +2,8 @@
 layout: tabbed-assignment
 ---
 
+<!-- Don't edit links here, change them in _data/assignment.yml instead. -->
+
 [slides]: <{{site.data.assignment.slides}}>
 [template]: <{{site.data.assignment.template}}>
 
@@ -63,5 +65,3 @@ If necessary, add to your notes &mdash; you want to be able to come back to your
 </details>
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead. -->
-
-
