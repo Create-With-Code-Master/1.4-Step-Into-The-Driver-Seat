@@ -9,10 +9,10 @@ lesson: https://learn.unity.com/tutorial/lesson-1-4-use-user-input-to-control-th
 # below the tabes
 outcome: The player has control of the vehicle, using the arrow keys to maneuver.
 # Link to lesson slides, displayed on Resources tab if not empty.
-slides:
+slides: #
 # Name and URL of repository holding the starter code for this assignment.
 starter-code-org: SKHS-GDP-2019-2020
 starter-code-repo: Prototype-1
 starter-code-url: https://github.com/SKHS-GDP-2019-2020/Prototype-1
 # Link to Google Doc template for assignment submission.
-template: 
+template: #
