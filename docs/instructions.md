@@ -28,6 +28,10 @@ If all goes well this lesson should take about one block. Be sure to allow time 
 
 </div>
 
+<p>
+<details>
+<summary>Launch GitHub Desktop and make sure that your local copy of the {{site.data.assignment.starter-code-repo}} repository is up to date.</summary>
+
 - Make sure that your **{{site.data.assignment.starter-code-repo}}** repository is selected.
 - Do a **fetch** to make sure your local copy of the code is up to date, if you have done work on the GitHub site or at home between classes you will be prompted to do a **pull** to incorporate your changes.
 - Make sure that you are on the **{{site.data.assignment.get-prev-branch}}** branch.
