@@ -43,7 +43,7 @@ If all goes well this lesson should take about one block. Be sure to allow time 
 
 </details>
 
-<p><details><summary>Go to the [lesson][] and get ready to take notes.</summary>
+<p><details><summary>Go to the <a href="{{site.data.assignment.lesson}}">lesson</a> and get ready to take notes.</summary>
 
     - Get headphones if you need them.
     - Start a page for this lesson in your notebook with a title and date.
@@ -62,8 +62,6 @@ If all goes well this lesson should take about one block. Be sure to allow time 
 <p><details><summary>After watching each video, do the steps in Unity.</summary>
 
 If necessary refer to your notes (update them if you find yourself stuck). You can use the abreviated steps below each video for cues on what to do.
-
-</details>
 
 </details>
 
