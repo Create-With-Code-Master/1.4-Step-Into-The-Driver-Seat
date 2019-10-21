@@ -10,7 +10,7 @@ div#time-estimate {
     border-style: solid;
     border-color: #218180;
     border-radius: 8px;
-    padding: 0 10px 0 10px;
+    padding: 6px 10px 6px 10px;
 }
 summary {
     font-weight: bold;
