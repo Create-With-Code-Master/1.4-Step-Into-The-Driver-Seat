@@ -61,7 +61,7 @@ If all goes well this lesson should take about one block. Be sure to allow time 
 
 <p><details><summary>After watching each video, do the steps in Unity.</summary>
 
-If necessary refer to your notes (update them if you find yourself stuck). You can use the abreviated steps below each video for cues on what to do.
+<p>If necessary refer to your notes (update them if you find yourself stuck). You can use the abreviated steps below each video for cues on what to do.</p>
 
 </details>
 
