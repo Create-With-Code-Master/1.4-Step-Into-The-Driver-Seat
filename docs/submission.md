@@ -26,7 +26,8 @@ If you need tips on how to do this, expand the instructions below. Then…
 
 {% include submission-boilerplate.html %}
 
-<!-- Don't edit links here, change them in _data/assignment.yml instead, -->
+<!-- Don't edit links here, change them in _data/assignment.yml instead. -->
 
-[slides]: <{{site.data.assignment.slides}}>
-[template]: {{site.data.assignment.template}}
+{% if site.data.assignment.lesson   %}[lesson]: <{{site.data.assignment.lesson}}>     {% endif %}
+{% if site.data.assignment.slides   %}[slides]:   <{{site.data.assignment.slides}}>   {% endif %}
+{% if site.data.assignment.template %}[template]: <{{site.data.assignment.template}}> {% endif %}
