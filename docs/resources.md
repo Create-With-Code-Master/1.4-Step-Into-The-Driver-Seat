@@ -12,10 +12,8 @@ layout: tabbed-assignment
 {% endif %}
 * [Lesson][]
 
-<!-- Don't edit links here, change them in _data/assignment.yml instead, -->
+<!-- Don't edit links here, change them in _data/assignment.yml instead. -->
 
-[lesson]: <{{site.data.assignment.lesson}}>
-
-[slides]: {{site.data.assignment.slides}}
-
-[template]: <{{site.data.assignment.template}}>
+{% if site.data.assignment.lesson   %}[lesson]: <{{site.data.assignment.lesson}}>     {% endif %}
+{% if site.data.assignment.slides   %}[slides]:   <{{site.data.assignment.slides}}>   {% endif %}
+{% if site.data.assignment.template %}[template]: <{{site.data.assignment.template}}> {% endif %}
